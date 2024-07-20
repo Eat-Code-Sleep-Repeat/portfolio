@@ -1,0 +1,15 @@
+.title{
+    color: white;
+    display: flex;
+    justify-content:space-between;
+    margin-top: 10px;
+}
+.vl_one{
+    font-size: 25px;
+}
+.vl_two{
+    font-size: 25px;
+}
+.vl_three{
+    font-size: 25px;
+}

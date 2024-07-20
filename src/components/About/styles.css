@@ -1,0 +1,11 @@
+.about{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #333333;
+    line-height: 2.2;
+    text-align: left;
+    margin-inline: auto;
+    width: 50%;
+    padding-top: 14px;
+}

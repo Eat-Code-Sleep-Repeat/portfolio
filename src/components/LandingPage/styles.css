@@ -1,0 +1,26 @@
+.title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 110px;
+    font-weight: 300;
+    font-style: normal;
+    width: 1000px;
+    margin-left:180px;
+    animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+}
+.title-2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 110px;
+    font-weight: 300;
+    font-style: normal;
+    width: 1000px;
+    margin-left:320px;
+    color: white;
+    animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+}
+.Heading{
+    margin-top: 15rem;
+    margin-right: 550px;
+    height: 600px;
+}
